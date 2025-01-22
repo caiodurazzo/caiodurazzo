@@ -1,9 +1,15 @@
-## Olá 👋
+# Olá! 👋 Bem-vindo ao meu perfil do GitHub!
 
-<!--
-**caiodurazzo/caiodurazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Caio Durazzo, graduando em Ciências Socias pela USP.
 
-- 🔭 Sou graduando em Ciências Sociais pela USP
-- 🌱 Me interesso por Ciência Política e Estatística
-- 👯 Estou buscando aprimorar minhas habilidades de análise de dados
-- 📫 Como me contatar: Mande um email (caio.durazzo220704@gmail.com)
+## 🚀 Sobre mim
+- 🔭 Atualmente buscando oportunidade de estágio para atuar e adquirir experiências na área de pesquisa e análise de dados.
+- 🌱 Estudando Ciência Política e Estatística.
+- 📫 Contato: caio.durazzo220704@gmail.com.
+
+## 🛠️ Habilidades
+- Linguagens: R e Python.
+- Outras: Microsoft Office.
+
+## 🌐 Conecte-se comigo
+- LinkedIn (linkedin.com/in/caio-de-vasconcelos-durazzo-b18b0829b)
