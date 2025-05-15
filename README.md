@@ -1,6 +1,6 @@
 # Olá! 👋 Bem-vindo ao meu perfil do GitHub!
 
-Eu sou Caio Durazzo, graduando em Ciências Socias pela USP.
+Eu sou Caio Durazzo, graduando em Ciências Socias na USP.
 
 ## 🚀 Sobre mim
 - 🔭 Atualmente buscando oportunidade de estágio para atuar e adquirir experiências na área de pesquisa e análise de dados.
