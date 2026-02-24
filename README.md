@@ -3,7 +3,7 @@
 Eu sou Caio Durazzo, graduando em Ciências Socias na USP.
 
 ## 🚀 Sobre mim
-- 🔭 Busco oportunidades para por em práticas minhas habilidades e aprendizados.
+- 🔭 Busco oportunidades para por em prática minhas habilidades e aprendizados.
 - 🌱 Estudando Ciência Política e Estatística.
 - 📫 Contato: caio.durazzo220704@gmail.com.
 
