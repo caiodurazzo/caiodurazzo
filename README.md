@@ -3,7 +3,7 @@
 Eu sou Caio Durazzo, graduando em Ciências Socias na USP.
 
 ## 🚀 Sobre mim
-- 🔭 Estagiário de dados na Secretaria Municipal de Planejamento e Eficiência (SEPLAN) da Prefeitura Municipal de São Paulo (PMSP).
+- 🔭 Busco oportunidades para por em práticas minhas habilidades e aprendizados.
 - 🌱 Estudando Ciência Política e Estatística.
 - 📫 Contato: caio.durazzo220704@gmail.com.
 
