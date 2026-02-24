@@ -11,7 +11,7 @@ Eu sou Caio Durazzo, graduando em Ciências Socias na USP.
 - R e Python;
 - Microsoft Office;
 - Metodologia científica;
-- Análise de dados
+- Análise de dados.
 
 ## 🌐 Conecte-se comigo
 - LinkedIn (linkedin.com/in/caio-de-vasconcelos-durazzo-b18b0829b)
