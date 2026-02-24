@@ -8,8 +8,10 @@ Eu sou Caio Durazzo, graduando em Ciências Socias na USP.
 - 📫 Contato: caio.durazzo220704@gmail.com.
 
 ## 🛠️ Habilidades
-- Linguagens: R e Python.
-- Outras: Microsoft Office.
+- R e Python;
+- Microsoft Office;
+- Metodologia científica;
+- Análise de dados
 
 ## 🌐 Conecte-se comigo
 - LinkedIn (linkedin.com/in/caio-de-vasconcelos-durazzo-b18b0829b)
